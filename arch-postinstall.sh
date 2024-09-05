@@ -10,7 +10,8 @@ cd ~/sources
 git clone https://github.com/oroszpeter97/arch-postinstall.git
 cd arch-postinstall
 
-cp -r config-files/* ~/
+pwd
+cp -r config-files/. ~/
 
 # yay
 
