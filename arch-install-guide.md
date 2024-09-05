@@ -107,3 +107,6 @@ Add
 `umount -lR /mnt`
 
 `reboot`
+
+# Drivers
+Install your GPU drivers
