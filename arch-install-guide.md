@@ -18,6 +18,7 @@
  - Linux filesystem
  - EFI <1G>
  - Linux swap <4G-16G>
+
 `lsblk`
 `cfdisk`
 
