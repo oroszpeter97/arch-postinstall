@@ -8,6 +8,7 @@ sudo pacman -S --noconfirm vim mc git htop openssh pulseaudio pulseaudio-alsa pu
 mkdir ~/sources ~/.config
 cd ~/sources
 git clone https://github.com/oroszpeter97/arch-postinstall.git
+cd arch-postinstall/config-files
 
 cp .vimrc ~/
 cp -r .vim ~/
